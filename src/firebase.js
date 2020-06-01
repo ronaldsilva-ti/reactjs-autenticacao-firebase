@@ -19,4 +19,4 @@ const firebaseConfig = {
   const auth =  app.auth();//autentificação
 
 
-  export default {db,auth}
+  export  {db,auth}
